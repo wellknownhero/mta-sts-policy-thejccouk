@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mail.example.org
+mx: eu-smtp-inbound-1.mimecast.com
+mx: eu-smtp-inbound-2.mimecast.com
 max_age: 604800
